@@ -2,7 +2,7 @@
 ### In this tutorial, we'll be creating a simple Play Button for your game
 
 > [!IMPORTANT]
-> In this tutorial, you will need any version of Unity and VisualStudio released within the last 5 years
+> You will need any version of Unity and VisualStudio released within the last 5 years
 > 
 > This tutorial is made for a 3D Project
 > 
@@ -48,10 +48,10 @@
 
 3. On **Line 8**, type in the following function:
 
-   public void PlayButton()
+  ` public void PlayButton()
     {
         SceneManager.LoadScene("Game");
-    }
+    }`
 
 > [!NOTE]
 > In the quotations, you must put the name of your game scene (in this case, the name of the scene is "Game"). Ensure the spelling is correct.
@@ -72,7 +72,7 @@
 3. Now click on the 'Button' gameObject and scroll down until you see the `On Click ()` tab. Click the + icon and drag the canvas where it says `None (Object)`.
 > Right click in the Project window and refresh, just to make sure the new script shows up in the functions tab.
 
-4. Click the `No Function` tab -? `Main Menu` - `Play Button()`.
+4. Click the `No Function` tab -> `Main Menu` -> `Play Button()`.
 
 ![image](https://github.com/user-attachments/assets/5cc3b9f4-d290-48b4-9735-aed9064f4212)
 
