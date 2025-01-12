@@ -36,7 +36,7 @@
 
 ### Next, we need to make the code for the Play Button
 
-1. Right Click in the `Project` window, -> `Create` -> `C# Script` and name the script 'MainMenu'. Double click to open in VisualStudio.
+1. Right Click in the `Assets` window, -> `Create` -> `C# Script` and name the script 'MainMenu'. Double click to open in VisualStudio.
 
 ![image](https://github.com/user-attachments/assets/2a56b21c-0301-4114-82e4-9d7e5ff7a91f)
 
